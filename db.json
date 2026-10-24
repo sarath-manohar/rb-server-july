@@ -1,0 +1,178 @@
+{
+  "resumes": [
+    {
+      "fullName": "Arjun",
+      "location": "Bangalore, Karnataka",
+      "job": "Data Analyst",
+      "email": "arjun.nair@example.com",
+      "phone": "9876543210",
+      "linkedin": "https://www.linkedin.com/in/arjunnair",
+      "github": "https://github.com/arjunnair",
+      "degree": "B.Tech in Computer Science",
+      "college": "Rajagiri School of Engineering & Technology",
+      "year": "2025",
+      "skills": [
+        "SQL",
+        "Excel",
+        "Python",
+        "Data Visualization",
+        "Power BI",
+        "Tableau",
+        "Data Cleaning",
+        "Statistical Analysis",
+        "Pandas",
+        "NumPy"
+      ],
+      "summary": "Detail-oriented data analyst skilled in collecting, analyzing, and interpreting complex datasets to support business decisions. Experienced in data visualization and reporting tools.",
+      "id": 1
+    },
+    {
+      "fullName": "Meera George",
+      "location": "Kochi, Kerala",
+      "job": "Backend Developer",
+      "email": "meera.thomas@example.com",
+      "phone": "9123456780",
+      "linkedin": "https://www.linkedin.com/in/meerathomas",
+      "github": "https://github.com/meerathomas",
+      "degree": "B.Sc Computer Science",
+      "college": "Christ University",
+      "year": "2024",
+      "skills": [
+        "Node.js",
+        "Express.js",
+        "REST API Development",
+        "Database Design",
+        "MongoDB",
+        "SQL",
+        "Authentication & Authorization",
+        "Server Security",
+        "API Integration",
+        "Git"
+      ],
+      "summary": "Backend developer experienced in building secure and scalable server-side applications. Skilled in REST API development, database management, and ensuring application performance and reliability.",
+      "id": 2
+    },
+    {
+      "fullName": "Meera Thomas",
+      "location": "Kochi, Kerala",
+      "job": "Backend Developer",
+      "email": "meera.thomas@example.com",
+      "phone": "9123456780",
+      "linkedin": "https://www.linkedin.com/in/meerathomas",
+      "github": "https://github.com/meerathomas",
+      "degree": "B.Sc Computer Science",
+      "college": "Christ University",
+      "year": "2024",
+      "skills": [
+        "Node.js",
+        "Express.js",
+        "REST API Development",
+        "Database Design",
+        "MongoDB",
+        "SQL",
+        "Authentication & Authorization",
+        "Server Security",
+        "API Integration",
+        "Git"
+      ],
+      "summary": "Backend developer experienced in building secure and scalable server-side applications. Skilled in REST API development, database management, and ensuring application performance and reliability.",
+      "id": 3
+    },
+    {
+      "fullName": "Rahul Menon",
+      "location": "Kochi, Kerala",
+      "job": "Machine Learning Engineer",
+      "email": "rahul.menon@example.com",
+      "phone": "9123456780",
+      "linkedin": "https://linkedin.com/in/rahulmenon",
+      "github": "https://github.com/rahulmenon",
+      "degree": "B.Sc Computer Science",
+      "college": "Christ University",
+      "year": "2024",
+      "skills": [
+        "Python",
+        "TensorFlow",
+        "PyTorch",
+        "Scikit-learn",
+        "Deep Learning",
+        "Data Preprocessing",
+        "Model Deployment",
+        "Natural Language Processing",
+        "Computer Vision",
+        "MLOps"
+      ],
+      "summary": "Machine learning engineer experienced in developing, training, and deploying machine learning models. Skilled in data preprocessing, model evaluation, and AI-driven solution development.",
+      "id": 4
+    },
+    {
+      "fullName": "sarath",
+      "location": "Bangalore, Karnataka",
+      "job": "Full Stack Developer",
+      "email": "sarathluminar1@gmail.com",
+      "phone": "5586836836",
+      "linkedin": "https://www.linkedin.com/in/sarath",
+      "github": "https://github.com/sarath",
+      "degree": "B.Sc Computer Science",
+      "college": "Christ University",
+      "year": "2024",
+      "skills": [
+        "JavaScript",
+        "React",
+        "Node.js",
+        "Express",
+        "MongoDB",
+        "HTML",
+        "CSS",
+        "REST APIs",
+        "Git",
+        "Deployment"
+      ],
+      "summary": "Full stack developer with hands-on experience in developing end-to-end web applications using both frontend and backend technologies. Adept at building scalable systems and delivering high-quality solutions.",
+      "id": 5
+    }
+  ],
+  "downloads": [
+    {
+      "timeStamp": "16/10/2026,3:27:35 pm",
+      "resumeIMG": "https://res.cloudinary.com/ht9nvelv/image/upload/v1792144654/s3nrdqigq5o52uervzci.png",
+      "resumeId": 1,
+      "jobRole": "Data Analyst",
+      "id": 1
+    },
+    {
+      "timeStamp": "16/10/2026,3:28:57 pm",
+      "resumeIMG": "https://res.cloudinary.com/ht9nvelv/image/upload/v1792144736/zccxr8fuc9oxtgnmscyf.png",
+      "resumeId": 1,
+      "jobRole": "Data Analyst",
+      "id": 2
+    },
+    {
+      "timeStamp": "22/10/2026,1:41:47 pm",
+      "resumeIMG": "https://res.cloudinary.com/ht9nvelv/image/upload/v1792656706/rp8osff0usgoyrts0z97.png",
+      "resumeId": 1,
+      "jobRole": "Data Analyst",
+      "id": 3
+    },
+    {
+      "timeStamp": "24/10/2026,11:48:59 am",
+      "resumeIMG": "https://res.cloudinary.com/ht9nvelv/image/upload/v1792822737/a1j3n76kflwxlsniwflm.png",
+      "resumeId": 2,
+      "jobRole": "Backend Developer",
+      "id": 4
+    },
+    {
+      "timeStamp": "24/10/2026,11:49:11 am",
+      "resumeIMG": "https://res.cloudinary.com/ht9nvelv/image/upload/v1792822749/g3wnm3bwvfgrnfz6qzs0.png",
+      "resumeId": 4,
+      "jobRole": "Machine Learning Engineer",
+      "id": 5
+    },
+    {
+      "timeStamp": "24/10/2026,11:49:19 am",
+      "resumeIMG": "https://res.cloudinary.com/ht9nvelv/image/upload/v1792822757/qiv9fm631rg94ymc6qzu.png",
+      "resumeId": 5,
+      "jobRole": "Full Stack Developer",
+      "id": 6
+    }
+  ]
+}
